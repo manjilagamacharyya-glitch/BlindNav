@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336481181077",
+    "project_id": "blindnav-34260",
+    "storage_bucket": "blindnav-34260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336481181077:android:522ea57ef781635e726a9c",
+        "android_client_info": {
+          "package_name": "com.example.blind_nav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ4D2PfyIpumkDtEJq2eN4g05pwyN0g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
